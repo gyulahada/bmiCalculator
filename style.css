@@ -1,0 +1,64 @@
+html {
+  font-size: 30px;
+}
+
+body {
+  background: linear-gradient(320deg, #fcf9be, #ffc6c6, #def5e5, #bad1c2);
+  font-family: 'Lucida Console', 'Courier New', monospace;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 10px;
+  font-family: 'Lucida Console', 'Courier New', monospace;
+}
+
+.p1 {
+  padding-top: 20px;
+}
+
+.right {
+  position: absolute;
+  right: 100px;
+  top: 250px;
+  text-align: center;
+}
+
+.left {
+  position: absolute;
+  left: 200px;
+  top: 250px;
+  text-align: center;
+}
+
+.btn--calc {
+  position: absolute;
+  bottom: 150px;
+  left: 655px;
+  border-radius: 10px;
+}
+
+.contacts1 {
+  position: absolute;
+  bottom: 40px;
+  left: 715px;
+  font-size: 15px;
+}
+
+.contacts2 {
+  position: absolute;
+  bottom: 40px;
+  left: 790px;
+  font-size: 15px;
+}
+
+.bmiResult {
+  border: 2px groove;
+  border-radius: 10px;
+}
+
+.indResult {
+  border: 2px groove;
+  border-radius: 10px;
+  padding: 3px 3px 3px 10px;
+}
